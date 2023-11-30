@@ -3,6 +3,14 @@
 
 Arduino basic remote control door opening circuit ft Lcd 16x2
 
+## My source of inspiration
+
+Inspired by the system used by the Amazing Spider-Man [at home](https://youtu.be/pBO0-xkMY0w?si=TUnO2XLkbzQelrSz&t=4) and slightly improved, I made such a system
+
+[Image from the Comic Book](https://www.therpf.com/forums/attachments/comic-png.535385/)
+[Excerpt from the film](https://youtu.be/pBO0-xkMY0w?si=TUnO2XLkbzQelrSz&t=4)
+
+As an extra information [A system made using Arduino mega]( https://www.youtube.com/watch?v=GER345OR5FE) as here, these 2 contents have been my source of inspiration.
 
 ## Electrical materials needed for the project (the ones I use)
 
