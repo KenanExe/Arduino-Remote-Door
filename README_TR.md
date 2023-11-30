@@ -1,8 +1,15 @@
-
 # Arduino-Remote-Door
 
 Arduino temel uzaktan kumanda kapı açma devresi ft Lcd 16x2
 
+## ilham Kaynağım
+
+İnanılmaz Örümcek Adam'ın [evinde kulandığı sistemden](https://youtu.be/pBO0-xkMY0w?si=TUnO2XLkbzQelrSz&t=4) esinlenerek ve biraz geliştirerek böyle bir sistem yaptım
+
+[Çizgi Romandaki Görseli](https://www.therpf.com/forums/attachments/comic-png.535385/)
+[Filmden Alınan Bir Kesit](https://youtu.be/pBO0-xkMY0w?si=TUnO2XLkbzQelrSz&t=4)
+
+Ekstra bir bilgi olarak [Arduino mega kulanıp yapılan bir sistem]( https://www.youtube.com/watch?v=GER345OR5FE) burada olduğu gibi
 
 ## Proje için gerekli elektrik malzemeleri (benim kullandıklarım)
 
