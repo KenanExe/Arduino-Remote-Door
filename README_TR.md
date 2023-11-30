@@ -9,7 +9,7 @@ Arduino temel uzaktan kumanda kapı açma devresi ft Lcd 16x2
 [Çizgi Romandaki Görseli](https://www.therpf.com/forums/attachments/comic-png.535385/)
 [Filmden Alınan Bir Kesit](https://youtu.be/pBO0-xkMY0w?si=TUnO2XLkbzQelrSz&t=4)
 
-Ekstra bir bilgi olarak [Arduino mega kulanıp yapılan bir sistem]( https://www.youtube.com/watch?v=GER345OR5FE) burada olduğu gibi
+Ekstra bir bilgi olarak [Arduino mega kulanıp yapılan bir sistem]( https://www.youtube.com/watch?v=GER345OR5FE) burada olduğu gibi bu 2 içerik benim ilham kaynağım oldu.
 
 ## Proje için gerekli elektrik malzemeleri (benim kullandıklarım)
 
