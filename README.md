@@ -14,7 +14,7 @@ As an extra information [A system made using Arduino mega]( https://www.youtube.
 
 ## Electrical materials needed for the project (the ones I use)
 
-**Microcontroller:** Arduino Uno
+**Microcontroller:** Arduino Uno or Esp
 
 **Pot:** 10 kΩ Potentiometer [Non Necessary]
 
